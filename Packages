@@ -180,7 +180,7 @@ Name: Classic YouTube App
 
 Package: vn.gsm.ifile
 Version: 2.2.0-1
-Section: !CydiaVn-Apps
+Section: Entertainment
 Maintainer: Cydia.vn <repo@cydia.vn>
 Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
 Architecture: iphoneos-arm
