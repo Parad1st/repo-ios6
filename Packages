@@ -159,3 +159,37 @@ Description: Fix iOS's weather app from iPhoneOS 2 to iOS 7, the weather widget 
 Author: Requis
 Depiction: http://cydia.skyglow.es/depictions/com.skyglow.weatherx/depictions/index.html
 Name: WeatherX
+
+Package: uk.invoxiplaygames.youtube
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depends: firmware (>= 6.0), firmware (<= 7.0)
+Conflicts: com.tekwik.youtube
+Filename: debs/youtube-1.0.deb
+Size: 901312
+MD5sum: 7d5ea1f351dfa3af3426b5e34e520317
+SHA1: c94354247c86dd67ab0ab692db9cdf2e5bb626ec
+SHA256: 6674b57ce9826adb81be54c1b646ff34c2a0c78818a691409ed0ed98481ac22a
+Section: Entertainment
+Priority: optional
+Description: Returns the classic YouTube app to iOS 6.
+Author: InvoxiPlayGames
+Depiction: http://cydia.invoxiplaygames.uk/dp/youtube.php
+Name: Classic YouTube App
+
+Package: vn.gsm.ifile
+Version: 2.2.0-1
+Section: !CydiaVn-Apps
+Maintainer: Cydia.vn <repo@cydia.vn>
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
+Architecture: iphoneos-arm
+Filename: debs/ifile_2.2.0-1.deb
+Size: 9922518
+Installed-Size: 20224
+MD5sum: db8db12138425bce8df754279a1548ba
+Description: A File Manager and Viewer. iFile is a file manager runnning under user root. It allows fast navigation through the iPhone file system.
+Name: iFile
+Author: Carsten Heinelt <repo@cydia.vn>
+Depiction: http://cydia.vn/depic/t48/
+Homepage: http://cydia.vn/
